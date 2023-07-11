@@ -1,7 +1,7 @@
 {
   "name": "md4c",
   "version": "0.4.8",
-  "repo": "phoenixpoint/md4c-clib",
+  "repo": "phoenixpinpoint/md4c-clib",
   "description": "Clib Package for Markdown Parser and HTML Generator for C. Ported from mity/md4c",
   "keywords": ["md", "markdown", "html", "util", "utils"],
   "license": "MIT",
