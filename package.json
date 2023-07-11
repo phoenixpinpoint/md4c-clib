@@ -5,5 +5,5 @@
   "description": "Clib Package for Markdown Parser and HTML Generator for C. Ported from mity/md4c",
   "keywords": ["md", "markdown", "html", "util", "utils"],
   "license": "MIT",
-  "src": ["md4c.c", "md4c.h", "entity.c", "entity.h", "md4c-html.c", "md4c-html.h"]
+  "src": ["src/md4c.c", "src/md4c.h", "src/entity.c", "src/entity.h", "src/md4c-html.c", "src/md4c-html.h"]
 }
